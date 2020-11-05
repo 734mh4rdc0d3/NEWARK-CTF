@@ -1,0 +1,14 @@
+at the end of the source code,
+javascript is given to submit the form.
+
+function verify is declared.
+
+in one of the above forms, function verify has been used to apply action of submit button.
+find "verify" in the whole document.
+
+form 673 implements the verify function
+
+input username "admin" and password as "password123" in form 673.
+get the flag.
+
+flag: nactf{cl13n75_ar3_3v11} 

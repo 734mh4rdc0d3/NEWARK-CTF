@@ -1,0 +1,4 @@
+use crackstation.net t crack the hash 5af554431d976fdc57ea02908a8e0ce6.
+
+
+nactf{secure_password}

@@ -1,0 +1,3 @@
+USE ZSTEG
+
+flag: nactf{5t3gan0graphy_rul35!}

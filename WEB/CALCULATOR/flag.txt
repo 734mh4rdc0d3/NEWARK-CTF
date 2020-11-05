@@ -1,0 +1,6 @@
+print file contents using 
+file_get_contents("index.php")
+
+check the source code. find the flag variable.
+
+flag: nactf{ev1l_eval}

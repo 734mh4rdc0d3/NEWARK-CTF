@@ -1,0 +1,3 @@
+use exitool.
+
+flag: nactf{m3ta_m3ta_m3ta_d3f4j}

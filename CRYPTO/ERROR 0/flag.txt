@@ -1,0 +1,10 @@
+decoding the binary and applying frequency analysis we get
+
+nactf{n01sy_n013j_}Tt8ix4gm}
+
+for each character. flag.py doest this.
+
+there is a wrong character in this flag.
+brute forcing each candidate for 18th character.
+
+flag: nactf{n01sy_n013j_}Tt8ix4gm}

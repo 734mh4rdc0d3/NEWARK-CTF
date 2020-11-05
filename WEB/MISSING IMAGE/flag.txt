@@ -1,0 +1,3 @@
+visit: https://hidden.challenges.nactf.com/flag.png
+
+flag: nactf{h1dd3n_1mag3s}

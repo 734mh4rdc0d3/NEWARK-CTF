@@ -1,0 +1,3 @@
+numbers given are ascii codes rotated by one.
+
+flag: nactf{asc11_XB4RCR5}

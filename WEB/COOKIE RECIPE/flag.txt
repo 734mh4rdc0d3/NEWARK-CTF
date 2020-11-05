@@ -1,0 +1,11 @@
+submit a post request to auth.php with a cookie set.
+
+A cookie is set in index.php page with path: /index.php
+cookies are not set in auth.php page.
+
+request an auth.php with this cookie by editing and resending the request to this page.
+
+add this line:
+Cookie: user=cookie_lover; expires=Mon, 02-Nov-2020 13:47:26 GMT; Max-Age=1; path=/auth.php
+
+flag: nactf{c00kie_m0nst3r_5bxr16o0z} 

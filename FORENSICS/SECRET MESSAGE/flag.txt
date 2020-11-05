@@ -1,0 +1,5 @@
+check audacity. expected morse code by the waveform.
+
+decrypt morse code.
+
+flag: nactf{QU33N_0F_L4NGU4G3S}
